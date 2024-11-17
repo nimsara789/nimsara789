@@ -1,16 +1,22 @@
-## Hi there 👋
+Got it! Based on the information shared, here’s a draft for your GitHub repository README:
 
-<!--
-**nimsara789/nimsara789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there 👋 I'm Nimsara!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Welcome to my GitHub profile! Here's a little about me:
+
+- 🔭 **Who am I?**  
+  I'm an **Undergraduate Student** passionate about coding and creating impactful projects.
+
+- 🌱 **Skills and Interests**  
+  I work with **Python**, **Java**, **CSS**, **HTML**, and **React**, and I'm always eager to learn and grow.
+
+- 👯 **Collaboration**  
+  I'm open to collaborating on exciting web development and programming projects.
+
+- 📫 **How to reach me**  
+  Feel free to connect with me through my GitHub profile for any inquiries or collaborations!
+
+- ⚡ **Fun fact**  
+  Coding is not just a skill; it's my way of problem-solving and expressing creativity. 😊
+
